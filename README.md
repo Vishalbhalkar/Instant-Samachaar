@@ -1,4 +1,4 @@
-# NewsHive - News Aggregator
+# Instant-Samachaar - News Aggregator
 
 ## Overview
 
@@ -13,7 +13,7 @@ NewsHive addresses these challenges by offering a seamless, multilingual news ex
 
 ### Multilingual Support
 
-- NewsHive offers news content in multiple languages with high-quality translations.
+- Instant-Samachaar offers news content in multiple languages with high-quality translations.
   
 - Implementation: Integrates translation APIs  and collaborates with native speakers for accurate translations.
 
@@ -68,20 +68,6 @@ NewsHive addresses these challenges by offering a seamless, multilingual news ex
 - Browse news articles in your preferred language.
 - Customize your news feed based on your interests.
 
-## Team Members
 
-Member 1 : [@Anurag Padhiyar](https://github.com/HotShot003)
-
-Member 2 : [@Raj Shah](https://github.com/rajshah04)
-
-Member 3 : [@Shreya Pandey](https://github.com/pshreya747)
-
-Member 4 : [@Harsh Sojitra ](https://github.com/Sojitraharsh)
-
-Member 5 : [@Dev Bhalgamiya](https://github.com/DevBhalgamiya)
-
-
----
-
-We hope you enjoy using NewsHive as much as we enjoyed developing it. Happy reading!
+I hope you enjoy using Instant-Samachaar as much as I enjoyed developing it. Happy reading!
 
