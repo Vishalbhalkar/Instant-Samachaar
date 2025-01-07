@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "concurrently": "^8.2.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "react": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.25.1",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "news-aggregator",
+  "description": "Welcome to NewsHive, a multilingual news aggregation platform designed to provide accurate, timely, and personalized news to users in their preferred language. NewsHive aims to break down language barriers and unify fragmented news platforms into a single, cohesive user experience.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently -n \"client,server\" -c \"bgBlue,bgGreen\" \"npm run client\" \"npm run server\"",
+    "server": "cd server && npm run dev",
+    "client": "npm start --prefix src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
